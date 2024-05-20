@@ -1,6 +1,6 @@
 # DATN 👨‍💻HUYNH TRUNG HIEU - 👨‍💻NGUYEN THANH DAT
 <div align="center">
-  <img src="https://github.com/Hiuuu29/DMS-system/assets/149765200/e7dd2b73-83fc-46e6-b9af-5023dca0c138" alt="maxresdefault" width="300"/>
+![image_2024-05-20_224653940](https://github.com/Hiuuu29/DMS-system/assets/149765200/3135d9f2-b74c-41ad-a74b-053c46808ce5)
 </div>
 
 ## Introduction
