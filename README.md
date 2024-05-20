@@ -1,6 +1,6 @@
 # DATN 👨‍💻HUYNH TRUNG HIEU - 👨‍💻NGUYEN THANH DAT
 <div align="center">
-  <img src="https://github.com/Hiuuu29/DMS-system/assets/149765200/e7dd2b73-83fc-46e6-b9af-5023dca0c138" alt="maxresdefault" width="200"/>
+  <img src="https://github.com/Hiuuu29/DMS-system/assets/149765200/db537c61-9628-451f-bade-d7743bce0090" alt="Logo_Trường_Đại_Học_Sư_Phạm_Kỹ_Thuật_TP_Hồ_Chí_Minh" width="300"/>
 </div>
 
 ## Introduction
