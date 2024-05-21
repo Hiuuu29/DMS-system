@@ -471,7 +471,7 @@ while True:
         if current_window != "Blue":
             cv2.destroyAllWindows()  #
             image = np.zeros((480, 640, 3), dtype=np.uint8)  #
-            cv2.putText(image, "Xe Dang Dung Yen", (180, 235), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255), 2)
+            cv2.putText(image, "Car is not moving", (180, 235), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255), 2)
             cv2.namedWindow("Blue", cv2.WND_PROP_FULLSCREEN)
             cv2.setWindowProperty("Blue", cv2.WND_PROP_FULLSCREEN, cv2.WINDOW_FULLSCREEN)
             cv2.imshow("Blue", image)
