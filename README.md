@@ -17,7 +17,7 @@ DMS - System or driver monitoring systems is a system includes a camera pointed 
 * Step 2: Run the command "source /path/to/your/virtual_environmet" (if you use virtual environmet) to activate the virtual_environmet.
 * Step 3: Run the command "cd /path/to/your/python_file" and then "python [replace this with your python file name .py] " to start the python code.
 ## Usage
-Access [http://localhost:8080/swagger-ui/index.html](https://github.com/davisking/dlib-models) to download pre-train models name "shape_predictor_68_face_landmarks.dat" from Davis E.King creator of Dlib library
+Access https://github.com/davisking/dlib-models to download pre-train models name "shape_predictor_68_face_landmarks.dat" from Davis E.King creator of Dlib library
 
 ## Contact Information
 * Email: 20145501@student.hcmute.edu.vn
